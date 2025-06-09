@@ -69,13 +69,13 @@ export const Home_Page = () => {
       name: "Sebastián Morales",
       img: "/sebastianmorales.jpg",
       instagram: "https://www.instagram.com/sebastianmorales.mp/",
-      twitter: "https://x.com/joelabril16",
+      twitter: "#",
     },
     {
       name: "Joel Abril",
       img: "/joelabril.png",
       instagram: "https://www.instagram.com/jabril16/",
-      twitter: "#",
+      twitter: "https://x.com/joelabril16",
     },
     {
       name: "Nicholas Guevara",
