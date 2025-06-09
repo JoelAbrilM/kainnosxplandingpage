@@ -1,2 +1,1 @@
-# kainnosxplandingpage
-landing page
+KainnosXp
